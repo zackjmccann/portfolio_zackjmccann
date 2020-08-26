@@ -13,7 +13,7 @@ class Home extends Component {
             <Jumbotron className="home-jumbo">
             <Row>
                 <Col md={6}>
-                    <h1>Home Page for Mobile Application</h1>
+                    <h1>Welcome to Zack McCann's Portfolio</h1>
                     <hr  style={{
                         color: '#000000',
                         backgroundColor: '#000000',
@@ -22,17 +22,17 @@ class Home extends Component {
                         }}>
                     </hr>
                     <p>
-                        Supplemental text to header, further providing app info
+                        This is an introduction to my portfolio, and the work I have taught myself
                     </p>
                 </Col>
                 <Col md={{ span: 5, offset: 1 }}>
                     <p className="jumbo-sup-text">
-                        Here is some text to further describe this section of the app.
-                        Outlining what the about is about, the poeple that built in, and 
-                        houw in can improve the users life.
+                        Almost everything compiled in this application I taught myself over the last
+                        several months. I am focused on my continued growth in full stack web development,
+                        and building web applications.
                         <br></br>
                         <br></br>
-                        The hook, to really pull them in.
+                        The portfolio is constantly growing and under maintence as I continue to learn.
                         <br></br>
                         <br></br>
                         <Button className="jumbo-btn">Get Started</Button>
