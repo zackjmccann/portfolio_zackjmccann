@@ -1,0 +1,16 @@
+.home-jumbo.jumbotron{
+    margin: 0px 0px 200px 0px;
+    color: #F8F8FF;
+    background-color: #191970;
+    border-radius: 0%;
+}
+
+button.jumbo-btn.btn.btn-primary {
+    background-color: #000000;
+    color: #F8F8FF;
+}
+
+.jumbo-sup-text {
+    text-align: center;
+    color: #F8F8FF;
+}

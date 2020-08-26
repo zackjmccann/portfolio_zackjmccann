@@ -1,0 +1,21 @@
+body {
+    background-color: #F0F0F0;
+  }
+
+Form {
+    background-color: #F8F8FF;
+    margin: 100px 200px 100px;
+    padding: 100px;
+    border-radius: 7px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.signup-page-button a {
+    color: #F8F8FF;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.signup-page-button:hover a {
+    color: #191919;
+}

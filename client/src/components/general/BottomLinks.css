@@ -1,0 +1,19 @@
+.bottomLinksCont {
+    margin: 0%;
+    padding: 30px;
+    background-color: #000000
+}
+
+.bottomLink {
+    color: #F8F8FF;
+    margin: 0px;
+    font-weight: normal;
+    font-size: 0.9rem;
+}
+
+.row {
+    padding: 5px;
+}
+.col-sm {
+    text-align: center;
+}

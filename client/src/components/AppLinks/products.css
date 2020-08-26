@@ -1,0 +1,18 @@
+.jumbotron {
+    color: #F8F8FF;
+    margin: 0px;
+    padding: 70px;
+    background-color: rgb(0, 81, 255);
+    border-radius: 0%;
+}
+
+.card-deck {
+    margin: 0px;
+    padding: 40px 15px 40px;
+    background-color: rgb(0, 81, 255);
+}
+
+.card {
+    border-color: #191970;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}

@@ -1,0 +1,76 @@
+[
+    [
+        {
+            "id": "productLink",
+            "label": "Products",
+            "url": "products"
+        },
+        {
+            "id": "aboutLink",
+            "label": "About",
+            "url": "about"
+        },
+        {
+            "id": "contactLink",
+            "label": "Contact",
+            "url": "contact"
+        },
+        {
+            "id": "loginLink",
+            "label": "Login",
+            "url": "login"},
+        {
+            "id": "signupLink",
+            "label": "Sign Up",
+            "url": "signup"},
+        {
+            "id": "careersLink",
+            "label": "Careers",
+            "url": "careers"},
+        {
+            "id": "meetTheTeamLink",
+            "label": "Meet the Team",
+            "url": "meettheteam"},
+        {
+            "id": "newsLinks",
+            "label": "News",
+            "url": "news"},
+        {
+            "id": "addtionalInformationLink",
+            "label": "Addtional Information",
+            "url": "additionalinformation"
+        }
+    ],
+    [
+        {
+            "id": "profileLink",
+            "label": "Profile",
+            "url": "profile"
+        },
+        {
+            "id": "investLink",
+            "label": "Invest",
+            "url": "invest"
+        },
+        {
+            "id": "dashboardLink",
+            "label": "Dashboard",
+            "url": "dashboard"
+        },
+        {
+            "id": "trendsLink",
+            "label": "Trends",
+            "url": "trends"
+        },
+        {
+            "id": "settingsLink",
+            "label": "Settings",
+            "url": "settings"
+        },
+        {
+            "id": "logOutLink",
+            "label": "Log Out",
+            "url": "logout"
+        }
+    ]
+]
