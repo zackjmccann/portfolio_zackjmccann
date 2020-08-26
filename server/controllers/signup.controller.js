@@ -3,13 +3,13 @@ exports.signup_post = async function(req, res, next) {
 
     const { MongoClient } = require("mongodb");
 
-/// *************EDIT*********************** \\\
-    const url = "mongodb+srv://zack-user:zackpassword@reit-db.ngpep.azure.mongodb.net/reeter-db?retryWrites=true&w=majority";
+/// *************REDACTED*********************** \\\
+    const url = "MONGO URL REDACTED for PRIVACY";
 /// ***************EDIT********************* \\\
     const client = new MongoClient(url, { useNewUrlParser: true, useUnifiedTopology: true  });
 /// ***********EDIT**************** \\\
-    const dbName = "reeterdb";
-/// **********EDIT***************** \\\
+    const dbName = "DB NAME REDACTED";
+/// **********REDACTED***************** \\\
 
     
     try {
